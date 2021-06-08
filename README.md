@@ -1,3 +1,3 @@
 # Howto: driftctl with Terragrunt
 
-https://driftctl.com
+Related blog post with detailed instructions: [https://driftctl.com/how-to-use-driftctl-with-terragrunt/](https://driftctl.com/how-to-use-driftctl-with-terragrunt/)
